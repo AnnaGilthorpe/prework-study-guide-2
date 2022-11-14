@@ -1,14 +1,14 @@
-# <Prework Study Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 
 This Prework Study Guide was created to provide a webpage with tips to help support Bootcamp students. 
 
-This project helped me learn about about and implement HTML, CSS, Git and JavaScript practices and code. 
+This project helped me learn about and how to implement HTML, CSS, Git and JavaScript practices and code. 
 
-The end product is aimed to provide myelf and other students an overview about what has been learnt in the prework for our Bootcamp. It aims to support students with highlights of what they have learnt during the Bootcamp prework. 
+The end product is aimed to provide myself and other students with an overview about what has been learnt in the prework for our Bootcamp. It aims to support students with highlights of what they have learnt during the prework. 
 
-I have learnt many skills during this project including understanding and actioning code to create this webpage guide. Broad highlights include HTML, CSS, git and JavaScript. Finer ones include command line codes, creating repos, pull requests in Git Hub, HTML headers, padding and margins, class attributes, debugging, links to files and functions, strings and Forloops in Javascript.
+I have learnt many skills during this project including understanding and actioning code to create this webpage guide. Broad highlights include HTML, CSS, git and JavaScript. Finer ones include command line codes, creating repos and pull requests in Git Hub, HTML headers, padding and margins, class attributes, debugging, links to files and functions, strings and Forloops in Javascript. Plus much more!upda
 
 
 - [Installation]
